@@ -1,0 +1,8 @@
+Button {
+    --colors-font-color: #7777d444;
+    --const-hseparation: 5;
+}
+
+Button:hover {
+    background: #7777d444;
+}
